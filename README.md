@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+##Calculadora IMC com Dart
+
+Uma calculadora de Índice de Massa Corporal, com classificação, desenvolvido em Dart. 
