@@ -1,3 +1,2 @@
-# calculadora-imc-dart
-
-Calculadora de Índice de Massa Corporal(IMC) com classificação feito inteiramente em Dart.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
